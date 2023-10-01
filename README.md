@@ -44,7 +44,7 @@ def second_job():
 
 For asynchronous functions, employ `AsyncLimiter` in a similar fashion.
 
-## Stack Limits 📚
+### Stack Limits 📚
 
 Stack limits on a single function to satisfy multiple constraints simultaneously. In the following example, both limiting constrained are enforces separately.
 
